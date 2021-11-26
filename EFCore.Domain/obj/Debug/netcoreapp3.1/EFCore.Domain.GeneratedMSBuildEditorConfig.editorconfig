@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = EFCore.Domain
+build_property.ProjectDir = C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Domain\

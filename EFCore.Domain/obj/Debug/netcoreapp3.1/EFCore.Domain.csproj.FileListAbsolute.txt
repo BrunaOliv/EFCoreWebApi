@@ -1,0 +1,10 @@
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Domain\bin\Debug\netcoreapp3.1\EFCore.Domain.deps.json
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Domain\bin\Debug\netcoreapp3.1\EFCore.Domain.dll
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Domain\bin\Debug\netcoreapp3.1\EFCore.Domain.pdb
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Domain\obj\Debug\netcoreapp3.1\EFCore.Domain.csproj.AssemblyReference.cache
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Domain\obj\Debug\netcoreapp3.1\EFCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Domain\obj\Debug\netcoreapp3.1\EFCore.Domain.AssemblyInfoInputs.cache
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Domain\obj\Debug\netcoreapp3.1\EFCore.Domain.AssemblyInfo.cs
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Domain\obj\Debug\netcoreapp3.1\EFCore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Domain\obj\Debug\netcoreapp3.1\EFCore.Domain.dll
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Domain\obj\Debug\netcoreapp3.1\EFCore.Domain.pdb

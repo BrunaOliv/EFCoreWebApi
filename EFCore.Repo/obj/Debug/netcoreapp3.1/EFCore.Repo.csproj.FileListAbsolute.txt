@@ -1,0 +1,16 @@
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Repo\bin\Debug\netcoreapp3.1\EFCore.Repo.deps.json
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Repo\bin\Debug\netcoreapp3.1\EFCore.Repo.runtimeconfig.json
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Repo\bin\Debug\netcoreapp3.1\EFCore.Repo.runtimeconfig.dev.json
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Repo\bin\Debug\netcoreapp3.1\EFCore.Repo.dll
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Repo\bin\Debug\netcoreapp3.1\EFCore.Repo.pdb
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Repo\bin\Debug\netcoreapp3.1\EFCore.Domain.dll
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Repo\bin\Debug\netcoreapp3.1\EFCore.Domain.pdb
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Repo\obj\Debug\netcoreapp3.1\EFCore.Repo.csproj.AssemblyReference.cache
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Repo\obj\Debug\netcoreapp3.1\EFCore.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Repo\obj\Debug\netcoreapp3.1\EFCore.Repo.AssemblyInfoInputs.cache
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Repo\obj\Debug\netcoreapp3.1\EFCore.Repo.AssemblyInfo.cs
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Repo\obj\Debug\netcoreapp3.1\EFCore.Repo.csproj.CoreCompileInputs.cache
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Repo\obj\Debug\netcoreapp3.1\EFCore.Repo.csproj.CopyComplete
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Repo\obj\Debug\netcoreapp3.1\EFCore.Repo.dll
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Repo\obj\Debug\netcoreapp3.1\EFCore.Repo.pdb
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.Repo\obj\Debug\netcoreapp3.1\EFCore.Repo.genruntimeconfig.cache
