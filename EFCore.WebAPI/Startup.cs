@@ -29,6 +29,10 @@ namespace EFCore.WebAPI
 
             services.AddDbContext<HeroiContext>(option => option.UseSqlServer(Configuration.GetConnectionString("ServerConnection")));
             services.AddControllers();
+            services.AddScoped<IEFCoreRepository, EFCoreRepository>();
+            services.AddControllers().AddNewtonsoftJson(options =>
+            options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

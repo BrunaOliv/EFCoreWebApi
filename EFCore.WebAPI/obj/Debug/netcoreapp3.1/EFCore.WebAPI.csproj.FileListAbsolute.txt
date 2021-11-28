@@ -64,3 +64,6 @@ C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.WebAPI\obj\Debug\netco
 C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.WebAPI\obj\Debug\netcoreapp3.1\EFCore.WebAPI.dll
 C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.WebAPI\obj\Debug\netcoreapp3.1\EFCore.WebAPI.pdb
 C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.WebAPI\obj\Debug\netcoreapp3.1\EFCore.WebAPI.genruntimeconfig.cache
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\bruna.oliveira\source\repos\EFCore.WebAPI\EFCore.WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
